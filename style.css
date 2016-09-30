@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+/************************
+Header styling
+*************************/
+header {
+  background-color: #444444;
+  margin: 0;
+}
+
+.header_width {
+  margin-top: 0;
+}
+
+.companyLogo {
+  margin: 20px 0;
+}
+.nav_ul {
+  float: right;
+  margin: 50px 0;
+  padding: 0;
+  width: 760px;
+}
+.nav_item {
+  color: #838383;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  display: inline;
+  margin: 5%;
+}
+
+
+/*****************************
+Main styling
+*****************************/
+
+.heroImg {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.features_li {
+  display: inline;
+}
+
+.features_ul {
+  padding: 0;
+}
+
+section {
+  width: 960px;
+  margin: 50px auto;
+}
+
+article {
+  font-family: 'Montserrat', sans-serif;
+  float: right;
+  display: inline;
+  width: 430px;
+  font-size: 14px;
+}
+
+.featuredSection {
+  margin-bottom: 50px;
+}
+h2 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #196619;
+}
+
+.call_to_action {
+  margin-top: 50px;
+}
+/**************************
+Footer styling
+**************************/
+
+footer {
+  padding: 75px;
+  background-color: #444444;
+}
