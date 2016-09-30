@@ -47,6 +47,8 @@ Main styling
 
 .features_ul {
   padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 section {
